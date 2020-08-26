@@ -1,0 +1,19 @@
+
+#heroImg{
+    background: url(slike/hero.jpg) no-repeat center;
+    background-size: cover;
+    height: 220px;
+}
+
+#heroImg .container{
+    color: white;
+   padding-top: 4%;
+   font-family: Verdana, Arial, sans-serif;
+   font-weight: bold;
+   font-size: 30px;
+}
+
+#heroImg .container .info{
+    font-size: 20px;
+}
+
