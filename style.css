@@ -1,3 +1,6 @@
+body{
+background-color: lightgoldenrodyellow;
+}
 
 #heroImg{
     background: url(slike/hero.jpg) no-repeat center;
@@ -39,4 +42,8 @@ footer a{
 footer a:hover{
     background-color: lightgray;
     opacity: 0.5;
+}
+
+.setBold{
+    font-weight: bold;
 }
